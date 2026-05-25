@@ -1,3 +1,5 @@
+[![Donate me a coffee](https://img.shields.io/badge/Donate-PayPal-00457C?logo=paypal&logoColor=white)](https://www.paypal.com/donate?hosted_button_id=99PC9L7CFB5ZL)
+
 # 🧙🏻‍♂️ AutoInstall_WP
 AutoInstall_WP es un script en Bash que contiene una herramienta de automatización diseñada para simplificar la instalación de WordPress en servidores basados en Ubuntu. Este script realiza la configuración completa de un entorno LAMP (Linux,Apache,MySQL,PHP) y configura WordPress de manera eficiente, lo que permite a los usuarios instalar WordPress simplemente ejecutando este script.C
 
