@@ -1,4 +1,10 @@
 <p align="center">
+<img width="2000" height="1080" alt="image" src="https://github.com/user-attachments/assets/f139558c-5553-4faf-8694-8182865eaf37" />
+</p>
+
+<h1 align="center">AutoInstall WordPress</h1>
+
+<p align="center">
   <b>🚀 AutoInstall WordPress — complete setup with a single command.</b><br>
   <sub>Automated WordPress installation with Apache, PHP 8.1+ and MariaDB.</sub>
 </p>
