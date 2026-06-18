@@ -1,8 +1,6 @@
-[![Donate me a coffee](https://img.shields.io/badge/Donate-PayPal-00457C?logo=paypal&logoColor=white)](https://www.paypal.com/donate?hosted_button_id=99PC9L7CFB5ZL)
-
 <p align="center">
-  <b>🚀 AutoInstall WordPress — configuración completa con un solo comando.</b><br>
-  <sub>Instalación automatizada de WordPress con Apache, PHP 8.1+ y MariaDB.</sub>
+  <b>🚀 AutoInstall WordPress — complete setup with a single command.</b><br>
+  <sub>Automated WordPress installation with Apache, PHP 8.1+ and MariaDB.</sub>
 </p>
 
 <p align="center">
@@ -31,3 +29,5 @@ cd AutoInstall_WP
 chmod +x autoWP.sh
 ./autoWP.sh
 ```
+
+[![Donate me a coffee](https://img.shields.io/badge/Donate-PayPal-00457C?logo=paypal&logoColor=white)](https://www.paypal.com/donate?hosted_button_id=99PC9L7CFB5ZL)
