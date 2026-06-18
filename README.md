@@ -36,4 +36,9 @@ chmod +x autoWP.sh
 ./autoWP.sh
 ```
 
+# 📜 License
+The proprietary code of AutoInstall WordPress is published under the MIT license. See the LICENSE file for details.
+
+The installer includes or downloads third-party components with their own licenses. It is the user's responsibility to review and comply with the terms of each one.
+
 [![Donate me a coffee](https://img.shields.io/badge/Donate-PayPal-00457C?logo=paypal&logoColor=white)](https://www.paypal.com/donate?hosted_button_id=99PC9L7CFB5ZL)
