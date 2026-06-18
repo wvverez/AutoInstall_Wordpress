@@ -1,5 +1,5 @@
 <p align="center">
-<img width="2000" height="1080" alt="image" src="https://github.com/user-attachments/assets/f139558c-5553-4faf-8694-8182865eaf37" />
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/f139558c-5553-4faf-8694-8182865eaf37" />
 </p>
 
 <h1 align="center">AutoInstall WordPress</h1>
