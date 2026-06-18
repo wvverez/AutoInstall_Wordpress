@@ -12,6 +12,13 @@
   <sub>Automated WordPress installation with Apache, PHP 8.1+ and MariaDB.</sub>
 </p>
 
+
+<div align="center">
+
+<sub>Made with ❤️ by Wvverez</sub>
+
+</div>
+
 <p align="center">
   <a href="https://github.com/wvverez/AutoInstall_Wordpress/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square" alt="MIT License"></a>
   <img src="https://img.shields.io/badge/Bash-Script-4EAA25.svg?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash">
